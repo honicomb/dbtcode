@@ -1,9 +1,9 @@
 version: 2
 
 sources:
-- name: demo 
-  database: demo
-  schema: demo_schema
-  tables:
-    - name: bike
-    - name: weather
+  - name: demo
+    database: demo
+    schema: demo_schema
+    tables:
+      - name: bike
+      - name: weather
